@@ -14,7 +14,45 @@ Com isso, espera-se aumentar a eficiência do processo, reduzir custos e melhora
 
 
 ---
+## 2. Diagrama de Atividade
 
+Início
+↓
+Receber título para cobrança
+↓
+Registrar no sistema
+↓
+[PROCESSOS PARALELOS]
+→ Enviar 1ª notificação (email/SMS)
+→ Realizar contato telefônico
+↓
+Cliente respondeu?
+→ Sim → Iniciar negociação
+→ Não → Enviar 2ª notificação
+↓
+Contato telefônico realizado?
+→ Sim → Iniciar negociação
+→ Não → Aguardar retorno
+↓
+Sem resposta geral?
+→ Sim → Acionar cobrador externo
+↓
+Cliente aceita negociar?
+→ Sim → Registrar acordo
+→ Não → Protestar título
+↓
+Pagamento realizado?
+→ Sim → Transferir valores → Finalizar
+→ Não → Protestar título
+↓
+Após protesto houve pagamento?
+→ Sim → Transferir valores → Finalizar
+→ Não → Devolver título → Finalizar
+↓
+Fim
+
+
+---
 ## 3. Atores do Sistema
 
 - Operador de cobrança  
