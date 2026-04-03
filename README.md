@@ -33,30 +33,37 @@ Com isso, espera-se aumentar a eficiência do processo, reduzir custos e melhora
 
 ### Registrar Título
 Cadastrar um novo título com dados do cliente, valor e vencimento.
+
 <img width="426" height="162" alt="image" src="https://github.com/user-attachments/assets/b2e45713-881c-4c2d-b92c-ccc59503e2d9" />
 
 ### Enviar Notificação
 Envio automático de mensagens de cobrança.
+
 <img width="426" height="208" alt="image" src="https://github.com/user-attachments/assets/144bc819-16e7-43f3-a039-b9793eee7f6b" />
 
 ### Realizar Contato Telefônico
 Tentativa de contato com o cliente e registro do resultado.
+
 <img width="426" height="226" alt="image" src="https://github.com/user-attachments/assets/d326983c-bacf-4248-8775-00ccc2e09d92" />
 
 ### Negociar Dívida
 Criação de acordo de pagamento quando há interesse do cliente.
+
 <img width="426" height="208" alt="image" src="https://github.com/user-attachments/assets/36c35c8f-d19d-4751-bd23-58f3dae8aa91" />
 
 ### Registrar Pagamento
 Atualização do sistema após confirmação do pagamento.
+
 <img width="426" height="161" alt="image" src="https://github.com/user-attachments/assets/b07b79e8-68ce-4ed2-b5be-f1d487e9e1ab" />
 
 ### Acionar Cobrador Externo
 Encaminhamento do caso para cobrança externa.
+
 <img width="426" height="142" alt="image" src="https://github.com/user-attachments/assets/fb88407b-9be9-44c9-af7e-c286a8852d5b" />
 
 ### Protestar Título
 Envio do título para protesto em caso de não pagamento.
+
 <img width="426" height="149" alt="image" src="https://github.com/user-attachments/assets/ca0505c6-73cb-414b-ac08-242987e4c711" />
 
 ---
